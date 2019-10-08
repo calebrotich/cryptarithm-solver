@@ -1,0 +1,23 @@
+{
+  "name": "cryptarithm-solver",
+  "version": "1.0.0",
+  "description": "A javascript solution to a CryptArithmetic puzzle",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calebrotich/cryptarithm-solver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calebrotich/cryptarithm-solver/issues"
+  },
+  "homepage": "https://github.com/calebrotich/cryptarithm-solver#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
